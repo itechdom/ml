@@ -10,7 +10,7 @@ export default function auth({
 }) {
 
   apiRoutes.post('/train',(req,res)=>{
-
+    
   })
 
   apiRoutes.post('/test',(req,res)=>{
