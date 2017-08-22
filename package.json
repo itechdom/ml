@@ -28,6 +28,7 @@
     "googleapis": "^18.0.0",
     "graphql": "^0.9.1",
     "jsonwebtoken": "^7.2.1",
+    "limdu": "^0.9.3",
     "mongoose": "^4.8.1",
     "morgan": "^1.8.0",
     "passport": "^0.3.2",
