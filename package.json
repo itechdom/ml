@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/node/index.js",
+    "start": "node ./src/index.js",
     "start:mongo": "./scripts/run-mongo.sh",
-    "start:dev": "nodemon ./src/node"
+    "start:dev": "nodemon ./src/"
   },
   "repository": {
     "type": "git",
