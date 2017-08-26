@@ -10,7 +10,8 @@ export default function auth({
 }) {
 
   apiRoutes.post('/train',(req,res)=>{
-    
+    console.log(req.body);
+    res.send("trained");
   })
 
   apiRoutes.post('/test',(req,res)=>{
